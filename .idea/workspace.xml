@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebb843b1-084e-49bb-8c32-ec3de020ce91" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DmbCellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NamedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SupersonicAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SupersonicAirplaneEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeryVeryImportantPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnimalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car2Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChildEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KumhoTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +46,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/java505/intellij/js_study/study01"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java505/intellij/chap05_1&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="애플리케이션.Car2Ex">
+    <configuration name="AnimalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalEx" />
+      <module name="chap05_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car2Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car2Ex" />
+      <module name="chap05_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChildEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChildEx" />
+      <module name="chap05_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneEx" />
+      <module name="chap05_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Car2Ex" />
+        <item itemvalue="애플리케이션.ChildEx" />
+        <item itemvalue="애플리케이션.AnimalEx" />
+        <item itemvalue="애플리케이션.PhoneEx" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -78,7 +102,10 @@
       <updated>1664323613964</updated>
       <workItem from="1664323615322" duration="794000" />
       <workItem from="1664331622775" duration="91000" />
-      <workItem from="1664348794395" duration="1172000" />
+      <workItem from="1664348794395" duration="2512000" />
+      <workItem from="1664358768377" duration="264000" />
+      <workItem from="1664932060363" duration="9000" />
+      <workItem from="1665118852323" duration="9306000" />
     </task>
     <servers />
   </component>
