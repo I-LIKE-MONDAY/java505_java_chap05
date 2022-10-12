@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/encodings.xml
+.idea/inspectionProfiles/Project_Default.xml
